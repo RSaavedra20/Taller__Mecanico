@@ -234,8 +234,8 @@ body {
   
   main {
       max-width: 800px;
-      width: 90%;
-      margin: auto;
+      width: 55%;
+      margin-left: auto;
       padding: 40px;
   }
   
